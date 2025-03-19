@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LFranca01
-- 📚 Studying front end
+- 📚 Studying
+
 
 <!---
 LFranca01/LFranca01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
