@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LFranca01
-- 📚 Studying
+- 📚 Studying to be a back-end developer!
 
 
 <!---
