@@ -5,9 +5,9 @@
 ---
 
 ## 🧠 About Me:
- ![Preview](./octocat-1775655319584.png)
+
 <p align="center">
-  <img src="./octocat-1775655319584.png" width="500"/>
+  <img src="./octocat-1775655319584.png" width="300"/>
 </p>
 
 - 🎓 Computer Science student<br>  
