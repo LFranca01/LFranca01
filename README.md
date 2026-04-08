@@ -60,4 +60,12 @@
 
 > Loading activity graph...
 ```
-<p align="center"> <img src="https://github.com/LFranca01/LFranca01/blob/output/pacman.svg" /> </p> 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LFranca01/LFranca01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LFranca01/LFranca01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LFranca01/LFranca01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
