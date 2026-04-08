@@ -4,11 +4,11 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me:
 
-🎓 Computer Science student  
-💻 Focused on Backend Development    
-🚀 Transitioning into the tech industry
+- 🎓 Computer Science student<br>  
+- 💻 Focused on Backend Development<br>    
+- 🚀 Transitioning into the tech industry<br>
 ---
 
 ## ⚙️ Technologies:
@@ -18,8 +18,8 @@
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dark)
-![Streak](https://streak-stats.demolab.com/?user=SEU_USER&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=LFranca01&show_icons=true&theme=dark)
+![Streak](https://streak-stats.demolab.com/?user=LFranca01&theme=dark)
 
 ---
 
