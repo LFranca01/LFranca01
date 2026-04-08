@@ -16,13 +16,6 @@
 
 ---
 
-## 📊 Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LFranca01&show_icons=true&theme=dark)
-![Streak](https://streak-stats.demolab.com/?user=LFranca01&theme=dark)
-
----
-
 ## 📡 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franca._46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-frança-b9a824333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasqueiroz166@gmail.com) 
