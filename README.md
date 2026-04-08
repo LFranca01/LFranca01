@@ -5,7 +5,10 @@
 ---
 
 ## 🧠 About Me:
-![Preview](./octocat-1775655319584.png)
+ ![Preview](./octocat-1775655319584.png)
+<p align="center">
+  <img src="./octocat-1775655319584.png" width="500"/>
+</p>
 
 - 🎓 Computer Science student<br>  
 - 💻 Focused on Backend Development<br>    
