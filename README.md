@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=25&center=true&vCenter=true&width=500&lines=Backend+Developer;Learning+Node.js;Building+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=25&center=true&vCenter=true&width=500&lines=Hi,+I'm+França)
 
 # 💫 About Me:
 🎓 Computer Science student<br>💻 Focused on Backend Development<br>🚀 Transitioning into the tech industry<br>
