@@ -33,3 +33,12 @@
 
 [✔] Backend Skills Loading...
 [✔] Learning Daily...
+
+> Loading activity graph...
+
+```md id="pacman-center"
+## 🟡 Pacman Contributions
+
+<p align="center">
+  <img src="https://github.com/LFranca01/LFranca01/blob/output/pacman.svg" />
+</p>
