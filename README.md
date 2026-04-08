@@ -5,6 +5,7 @@
 ---
 
 ## 🧠 About Me:
+![Preview](./octocat-1775655319584.png)
 
 - 🎓 Computer Science student<br>  
 - 💻 Focused on Backend Development<br>    
