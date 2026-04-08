@@ -6,8 +6,8 @@
 
 ## 🧠 About Me:
 
-<p align="center">
-  <img src="./octocat-1775655319584.png" width="300"/>
+<p align="right">
+  <img src="./octocat-1775655319584.png" width="100"/>
 </p>
 
 - 🎓 Computer Science student<br>  
