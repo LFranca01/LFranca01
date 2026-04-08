@@ -12,8 +12,6 @@
 
 - 🎓 Computer Science student  
 - 💻 Focused on Backend Development  
-- 🚀 Building real-world backend projects  
-- 🌎 Open to international opportunities (Remote / Relocation)
 
 ---
 
@@ -23,20 +21,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-## 📂 Featured Projects
-
-🔹 Authentication API  
-→ JWT authentication  
-→ Secure routes  
-→ RESTful architecture  
-
-🔹 Inventory System  
-→ Full CRUD  
-→ Database integration  
-→ Clean code structure  
 
 ---
 
